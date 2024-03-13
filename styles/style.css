@@ -249,6 +249,29 @@ img {
 .newsletter-btn {
 }
 
+/* Footer section styles  */
+footer {
+  text-align: center;
+}
+.footer-header {
+  font-size: 28px;
+}
+.footer-text {
+  font-size: 18px;
+  margin: 20px 0;
+}
+.fa-brands {
+  font-size: 20px;
+  margin: 0 0 40px 30px;
+}
+.copyright {
+  margin: 100px 0;
+}
+.copyright a {
+  color: black;
+  text-decoration: none;
+}
+
 /* Mobile screen view  */
 @media screen and (max-width: 600px) {
   /* banner styles  */
