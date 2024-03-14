@@ -259,13 +259,15 @@ nav {
 
 .newsletter-img {
   width: 57%;
-  background-image: url("/Images/Rectangle\ 8\ \(1\).png");
+  background-image: url("../Images/Rectangle\ 8\ \(1\).png");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 20px;
   text-align: right;
 }
 .newsletter-btn {
+  position: relative;
+  bottom: -80%;
 }
 
 /* Footer section styles  */
